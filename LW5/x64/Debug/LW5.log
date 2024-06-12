@@ -1,0 +1,15 @@
+﻿  Assembling algorithm.asm...
+algorithm.asm(1): error A2008: syntax error : .
+algorithm.asm(2): error A2008: syntax error : .
+algorithm.asm(19): error A2070: invalid instruction operands
+algorithm.asm(21): error A2070: invalid instruction operands
+algorithm.asm(22): error A2070: invalid instruction operands
+algorithm.asm(68): error A2070: invalid instruction operands
+algorithm.asm(69): error A2070: invalid instruction operands
+algorithm.asm(71): error A2070: invalid instruction operands
+algorithm.asm(95): error A2008: syntax error : DllMain
+algorithm.asm(95): error A2088: END directive required at end of file
+algorithm.asm(10): warning A6004: procedure argument or local not referenced : hInstDLL
+algorithm.asm(10): warning A6004: procedure argument or local not referenced : reason
+algorithm.asm(10): warning A6004: procedure argument or local not referenced : reserved1
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\algorithm.obj" /W3 /errorReport:prompt  /Taalgorithm.asm" с кодом "1".

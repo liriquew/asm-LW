@@ -1,0 +1,4 @@
+﻿  StaticLink.cpp
+StaticLink.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_ODDWORDS в функции main.
+..\LW5\algorithm.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\5\LW5\x64\Debug\StaticLink.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
